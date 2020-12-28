@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EPL Football Club Application</string>
+
+    <array name="club_logo">
+        <item>@drawable/arsenal</item>
+        <item>@drawable/chelsea</item>
+        <item>@drawable/everton</item>
+        <item>@drawable/mc</item>
+        <item>@drawable/mu</item>
+        <item>@drawable/liverpool</item>
+        <item>@drawable/tottenham</item>
+    </array>
+
+    <array name="club_name">
+        <item>Arsenal</item>
+        <item>Chelsea</item>
+        <item>Everton</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Liverpool</item>
+        <item>Tottenham Hotspurs</item>
+    </array>
+
+    <array name="club_desc">
+        <item>Arsenal Football Club adalah klub sepak bola profesional Inggris yang berbasis di daerah Holloway, London. Didirikan pada 1886 dengan nama Dial Square.</item>
+        <item>Chelsea Football Club adalah sebuah klub sepak bola Inggris yang bermarkas di Fulham, London. Chelsea didirikan pada tahun 1905 dan kini berkompetisi di Liga Utama Inggris. Kesuksesan pertama Chelsea diraih saat meraih gelar juara liga pada tahun 1955.</item>
+        <item>Everton Football Club adalah sebuah klub sepak bola profesional yang bermarkas di Kota Liverpool, Inggris, dan merupakan klub rival dari klub sekota Liverpool. Didirikan pada tahun 1878 dan menjadi salah satu pendiri dari Liga Sepak Bola pada tahun 1888 serta Liga Primer pada tahun 1992.</item>
+        <item>Manchester City Football Club adalah sebuah klub sepak bola profesional dari Inggris yang bermain di Liga Premier Inggris. Klub ini merupakaan klub sekota dengan Manchester United dan bermarkas di Stadion Etihad, Manchester. Pertandingan pertama dimainkan pada bulan November 1880.</item>
+        <item>Manchester United Football Club adalah sebuah klub sepak bola profesional Inggris yang berbasis di Old Trafford, Manchester Raya, yang bermain di Liga Inggris.</item>
+        <item>Liverpool Football Club adalah sebuah klub sepak bola asal Inggris yang berbasis di Kota Liverpool. Saat ini Liverpool adalah peserta Liga Utama Inggris. Liverpool juga merupakan juara dari Liga Utama Inggris musim 2019–2020.</item>
+        <item>Tottenham Hotspur Football Club, adalah klub sepak bola yang berasal dari Tottenham, sebuah daerah yang berada di wilayah utara London. Mereka juga dikenal sebagai Spurs, The Spurs dan Tottenham, sementara penggemar mereka memberi mereka nama the Lilywhites karena seragam tradisional mereka yang berwarna putih.</item>
+    </array>
+</resources>
